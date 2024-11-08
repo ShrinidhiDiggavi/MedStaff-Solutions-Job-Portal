@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Sksm@246",
+    "database": "job_portal",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
